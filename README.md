@@ -20,4 +20,4 @@ This project showcases a **Sales Analytics Dashboard** designed for **Madhav Sal
 ## How to Use
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/akashghagare29/madhav-sales-dashboard.git
+   git clone https://github.com/akashghagare29/Madhav-Ecomm-Sales-Dashboard.git
