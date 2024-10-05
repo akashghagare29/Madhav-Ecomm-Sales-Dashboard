@@ -12,7 +12,7 @@ This project showcases a **Sales Analytics Dashboard** designed for **Madhav Sal
 - **Key Performance Indicators (KPIs)**: Displays KPIs such as revenue, sales growth, cost, and net profit for quick business insight.
 
 ## Dashboard Preview
-https://github.com/akashghagare29/Madhav-Ecomm-Sales-Dashboard/blob/main/madhav-sales-dashboard.jpg
+<img src="madhav-sales-dashboard.jpg" alt="Madhav Sales Dashboard Preview" style="width: 100%; max-width: 600px;">
 
 ## Technologies Used
 - **Power BI**: To create interactive data visualizations and dashboards.
