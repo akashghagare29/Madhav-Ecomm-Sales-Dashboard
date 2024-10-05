@@ -11,6 +11,9 @@ This project showcases a **Sales Analytics Dashboard** designed for **Madhav Sal
 - **Profitability Analysis**: Monitors product and regional profit margins to assess overall sales effectiveness.
 - **Key Performance Indicators (KPIs)**: Displays KPIs such as revenue, sales growth, cost, and net profit for quick business insight.
 
+## Dashboard Preview
+https://github.com/akashghagare29/Madhav-Ecomm-Sales-Dashboard/blob/main/madhav-sales-dashboard.jpg
+
 ## Technologies Used
 - **Power BI**: To create interactive data visualizations and dashboards.
 - **DAX (Data Analysis Expressions)**: For advanced calculations and measures.
